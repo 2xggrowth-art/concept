@@ -1,3 +1,14 @@
-*.crdownload
-WhatsApp Image 2026-02-13 at 6.25.57 PM.jpeg
+# macOS
 .DS_Store
+
+# Large media folders
+edited content videos and thier feedback/
+video-review-frames/
+
+# Large binaries
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.wav
+*.mp3

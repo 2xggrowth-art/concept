@@ -1,301 +1,485 @@
 # GONE IN 30 — Premium Bike Liquidation Series
 
-> 30 premium bikes. 30 days. Up to 40% off. Dealer margin is 25%. The owner is LOSING money on purpose.
+> 30 premium bikes. 30 days. Up to 40% off. After that, full MRP. No extensions.
 
 ---
 
 ## THE PREMISE
 
-A bike shop owner goes through a slow public BREAKDOWN as he liquidates 30 premium bikes at below-cost prices. Each day, the "madness" escalates. He's not running a sale — he's running a clearance at his own expense. The LOSS is the entertainment. The deals are real.
+30 premium bikes are priced WRONG at BCH Jayanagar for exactly 30 days. Shimano groupsets, aluminum frames, hydraulic disc brakes — bikes that cycling enthusiasts KNOW are worth 35-48K — going for 18-28K. Below what BCH paid the distributor. The content doesn't explain WHY — it just shows the bikes, shows the real prices, and lets the viewer do the math. The urgency is REAL: when a bike sells, it's gone. No restock at these prices.
 
-**Why this works as a series:**
-- Story arc across 30 days — viewers follow the journey, come back daily
-- Physical hooks every single reel (marker slashing, price ripping, calculator throwing)
-- Dark comedy engine: a man voluntarily destroying his profit margin on camera
-- Built-in urgency: real countdown, real stock vanishing from the store
-- Cycling enthusiasts see REAL specs + REAL prices on bikes they recognize
+**Why this works:**
+- Every reel opens from the VIEWER'S daily life — a frustration they've felt today
+- The bike enters as the SOLUTION to that frustration, at a price that doesn't make sense
+- 30 days of consistent CTA creates a cumulative itch — BCH stays in their head
+- Cycling enthusiasts see REAL specs + REAL prices on bikes they recognize — they KNOW this is below cost
+- Share triggers designed in: "send this to your cycling group" / "save and show your spouse"
 
-**TG:** Male 20-45, Bangalore cycling enthusiasts, fitness riders, commuters who know what a Shimano groupset means. These people browse cycling forums, follow Strava, know MRP of premium bikes. When they see the slashed price, they'll KNOW it's below cost.
+**TG:** Male 20-45, Bangalore. Two segments:
+1. **Cycling enthusiasts** — browse forums, follow Strava, know Shimano tiers, ride weekends (or WANT to)
+2. **Commuters** — spend 4-8K/month on fuel for short commutes, know cycling is cheaper but haven't made the switch
 
-**Format:** Every reel is 15-25 seconds. Physical hook (0-3 sec) → Bike feature or story beat (3-15 sec) → CTA + count remaining (15-20 sec)
+**Format:** 15-25 seconds. Every reel follows this structure:
 
----
+```
+VISUAL PATTERN INTERRUPT (0-3 sec) — from the viewer's daily life
+     ↓ seamless flow
+BODY (3-15 sec) — value stacking: spec → price → comparison → proof
+     ↓
+CTA (15-20 sec) — SAME on every reel, creating cumulative urgency
+```
 
-## 5 CONTENT TYPES
+**THE CTA (same on ALL 30 reels):**
+> "[X] bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
 
-### TYPE 1 — THE SLASH (Price Destruction)
-Owner physically destroys his own prices. Fat red marker. Aggressive energy. This is the SIGNATURE move of the series.
-
-### TYPE 2 — THE FEATURE (Bike Spotlight)
-One bike. Quick specs. Slashed price. The bike does the talking.
-
-### TYPE 3 — THE REACTION (Social Proof)
-Real customers seeing the prices. Real shock. The moment of "wait, HOW much?" captured on camera.
-
-### TYPE 4 — THE COUNTDOWN (Urgency)
-Empty bike slots. Dwindling stock. The store getting emptier reel by reel.
-
-### TYPE 5 — THE LOSS (Dark Comedy)
-Owner calculating his losses out loud. The damage report. Still going. Getting more unhinged.
+This exact CTA appears on every single reel for 30 days. The number drops. The words stay the same. After seeing it 10-15 times, the viewer can recite it. That's the point.
 
 ---
 
-## THE CONCEPTS
+## 3 CONTENT TYPES
+
+### TYPE 1 — THE SLASH
+The red marker. Physical price destruction. This is the SIGNATURE visual of the series — the moment the MRP gets crossed out and the new price appears. Used as the pattern interrupt OR as the bridge moment inside the body.
+
+### TYPE 2 — THE FEATURE
+One specific bike. Specs that matter to the TG. Slashed price. Comparison to what it costs elsewhere. But ALWAYS opened with a TG daily-life hook — never starts with the bike.
+
+### TYPE 3 — THE COMPARISON
+Side-by-side. BCH price vs online price. Same bike, same specs, same brand. The gap visible in one glance. User confirmed: "This will help in conversion."
 
 ---
 
-### G1. THE FIRST SLASH — Launch Reel (Type 1)
+## THE SCRIPTS
 
-**Hook (0-2 sec):** Extreme close-up. A fat red marker tip touches a laminated price tag. SLASHES across the MRP — ₹48,000. The squeak of marker on laminate. New price scrawled below: ₹28,800. The gap is VIOLENT.
-
-**Body (2-12 sec):** Pull back. 30 premium bikes lined up across the store floor. Owner walks down the line with the marker, slashing every single price tag. Slash. Slash. Slash. Time-lapse it. His face is DEAD SERIOUS the entire time. Not smiling. Not celebrating. This is not a festive sale — this is a man clearing house.
-
-**Close (12-18 sec):** Caps the marker. Turns to camera. "30 premium bikes. Road. MTB. Hybrid. Up to 40% off. My margin is 25%. You do the math. I'm not making money — I'm making space. Walk in or DM 'GONE.'"
-
-**Text overlay:** 30 BIKES. 30 DAYS. UP TO 40% OFF.
-
-**Audio:** Dark, intense BGM — building tension during the slashing montage. Think heist-movie prep scene.
-
-**Why it works:** The AGGRESSIVE price slashing is the visual hook. Viewers SEE real MRPs getting destroyed. The owner openly admitting he's below margin creates TRUST. "You do the math" makes people actually calculate — and realize the deal is below cost. This one sets the tone for the entire series.
+Every script follows: **Visual Pattern Interrupt → Seamless Body → Consistent CTA**
 
 ---
 
-### G2. THE CALCULATOR CONFESSION — Day 2 (Type 5)
+### G1. THE CHAIN SNAP — Launch Reel
 
-**Hook (0-3 sec):** Close-up of a calculator screen. Fingers typing. The number goes NEGATIVE. Red digits. The owner's hand FREEZES on the calculator.
+**VISUAL PATTERN INTERRUPT (0-3 sec):**
+A guy is cycling. CLOSE-UP on the chain. It SNAPS. The pedal spins free. His foot slips. He stumbles to a stop. Frustration on his face. He looks down at the broken chain, dangling. Silence.
 
-**Body (3-12 sec):** Owner turns the calculator to face the camera. "This is what I lose on every bike I sell this month." Beat. He stares at it. Then he DROPS the calculator on the counter. It bounces. "But I need 30 bikes gone in 30 days." He picks up a specific bike — wheels it into frame. Quick specs: brand, frame, groupset, type. Shows the old tag. Shows the new price.
+> *This is a moment every cyclist has LIVED. The chain snap is visceral — you hear it, you feel it, you wince. Only cyclists stop for this. TG filter is instant.*
 
-**Close (12-18 sec):** "Yesterday was Day 1. This is Day 2. 29 left. The math gets worse every day and I'm still here." DM 'GONE' / walk in.
+**BODY (3-13 sec):**
+Cut to: the same guy standing in BCH. In front of him, a premium hybrid on a stand. Owner's hand grabs the drivetrain area — clean, sealed. "Shimano Tourney. Sealed bearings. This chain doesn't snap." Flicks the pedal — smooth spin. "Aluminum frame. 21 speed. Disc brakes — stops in the rain, stops on gravel."
 
-**Audio:** Slow piano that cuts to silence when the calculator shows negative.
+Red marker appears. Slashes the tag: ₹28,000 → ₹18,000. "This bike is ten thousand less than what I paid for it. I'm not explaining why. I'm just doing it for 30 days."
 
----
+> *Seamless flow: chain snap problem → this chain doesn't snap (solution) → specs → price slash. Value stacks every 3-5 sec: chain quality → frame → brakes → price.*
 
-### G3. THE LINEUP — Day 3 (Type 2)
+**CTA (13-18 sec):**
+"30 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
 
-**Hook (0-3 sec):** Owner ROLLS a premium road bike into the center of the store like he's presenting evidence. Kickstand down. Steps back. Arms crossed. Stares at it.
+Text overlay: 30 LEFT / ₹18,000 / DM 'GONE'
 
-**Body (3-15 sec):** Camera circles the bike slowly. Owner narrates like he's introducing a fighter entering the ring:
+**Audio:** Chain snap sound (real, metallic) → silence → calm voiceover in store → marker squeak.
 
-"[Brand + model]. Aluminum frame. Shimano [groupset]. 21-speed. Weighs [X] kg. MRP: ₹[price]."
-
-He pulls out the red marker. Slashes. Writes the new price.
-
-"My price: ₹[slashed price]. That's ₹[difference] less than what I paid for it."
-
-**Close (15-20 sec):** "28 left. Walk in. Jayanagar, Bangalore." Bike stays in frame. Price tag visible.
-
-**Audio:** Boxing ring bell + entrance music energy.
+**Share trigger:** Every cyclist who's had a chain snap sends this to their riding buddy. The chain snap IS the share trigger.
 
 ---
 
-### G4. THE CUSTOMER FREEZE — (Type 3)
+### G2. THE PETROL RECEIPT
 
-**Hook (0-2 sec):** A real customer is looking at a bike in the store. Staff tells them the price. The customer's hand literally STOPS mid-air reaching for their wallet. Freeze frame. Record scratch sound.
+**VISUAL PATTERN INTERRUPT (0-3 sec):**
+A hand pulls a petrol receipt out of a machine. Close-up. The number: ₹547. The hand CRUMPLES it. Throws it. Camera follows it as it bounces off the dashboard. Text on screen: "₹547. Again."
 
-**Body (2-12 sec):** Unfreeze. Customer: "Wait — how much?" Staff repeats the price. Customer looks at the bike. Looks at the tag. Looks back at staff. "That's the REAL price? Not EMI?" "That's the full price. Cash." Customer pulls out phone, starts texting someone — calling a friend. "Bro get here NOW."
+> *Every commuter does this 2-3x a week. The crumple is the frustration they FEEL but don't act on. The "Again" hits because it IS again — every week, same number, same waste.*
 
-**Close (12-18 sec):** Text overlay with the bike model + slashed price. "[X] bikes left."
+**BODY (3-13 sec):**
+Cut to: owner in the store, standing next to a road bike. "You spend roughly 5-6 thousand a month on fuel for a 10 km commute. That's 72 thousand a year." Turns to the bike. "This road bike — Shimano Claris, aluminum, disc brakes — is 21,600 rupees. Three months of your fuel bill." Red marker: ₹32,000 → ₹21,600. "After month three, every ride is free."
 
-**Audio:** Record scratch → comedic "wait what" energy.
+> *Price anchoring: Rs. 21,600 = 3 months of fuel. Not an expense — a replacement. Seamless from the petrol receipt frustration into the solution.*
 
-**Note:** Shoot this EVERY TIME a real customer has a genuine reaction to the price. Stockpile these clips. Authentic reactions > scripted drama. Even a 5-second genuine "bro WHAT" is worth a reel.
+**CTA (13-18 sec):**
+"29 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
 
----
+Text overlay: 29 LEFT / ₹21,600 / SAVES ₹72K/YEAR
 
-### G5. THE BEFORE/AFTER STORE — Day 7-ish (Type 4)
+**Audio:** Petrol pump ambient (0-3 sec) → voiceover → marker squeak.
 
-**Hook (0-2 sec):** Split screen or quick cut. LEFT: store packed with 30 bikes (Day 1 footage). RIGHT: store today — visibly emptier. The GAP between the two frames is the hook.
-
-**Body (2-10 sec):** Camera pans across the empty slots where bikes used to be. Maybe a sticker or chalk outline where each sold bike was — like a crime scene body outline. "This one went to a guy in Whitefield. This one to a couple in Indiranagar. This one — gone in 20 minutes."
-
-**Close (10-15 sec):** Pans to the remaining bikes. "[X] left. The empty spaces aren't coming back."
-
-**Audio:** Eerie, quiet BGM. Let the empty store speak.
+**Share trigger:** "Send this to someone who complains about petrol every week." The next time they pump fuel, they'll remember this reel.
 
 ---
 
-### G6. THE SIDE-BY-SIDE — (Type 2, repeat format)
+### G3. THE SIDE-BY-SIDE
 
-**Hook (0-3 sec):** Owner SLAMS two phones on the counter, screens facing camera. One shows the SAME bike model on another website at full MRP. The other shows his price tag — 35-40% lower. The gap is visible in one glance. His hand slaps the counter between the two phones.
+**VISUAL PATTERN INTERRUPT (0-2 sec):**
+Owner SLAMS two phones on the counter. Both screens face camera. One shows a bike on Amazon/Flipkart at ₹38,000. The other shows the SAME bike's BCH price tag: ₹24,000. His hand SLAPS between the two. The gap is visible in ONE glance. No words needed.
 
-**Body (3-12 sec):** "Same bike. Same specs. Same brand. Same everything. [Other site]: ₹[full price]. Me: ₹[slashed price]. I'm not undercutting them — I'm undercutting MYSELF. My cost is higher than this price."
+> *The slam + slap is the physical pattern interrupt. The two screens create instant comparison — the brain processes the gap before the owner speaks. This is the format the user confirmed works for conversion.*
 
-**Close (12-15 sec):** "[X] left. You know where to find me."
+**BODY (2-12 sec):**
+"Same bike. [Brand model]. Shimano Altus. Hydraulic disc brakes. 27.5-inch wheels. Same everything." Points to phone 1: "38,000 online. Plus delivery. Plus assembly. You wait 10 days." Points to phone 2: "24,000. Walk out with it today. Assembled. Ready to ride." Red marker on the laminated tag — ₹38,000 → ₹24,000. "Fourteen thousand difference. I'm not matching them — I'm undercutting myself."
 
-**Audio:** Auction hammer sound on the counter slap.
+> *Value stacks: same specs → online price + hassle → BCH price + instant → savings math → transparency. Every 3 seconds = new information.*
 
-**Note:** This format is REPEATABLE. Do it for 3-4 different bikes across the 30 days. Each time, a different online comparison. People WILL screenshot this and share it in cycling WhatsApp groups.
+**CTA (12-17 sec):**
+"27 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
 
----
+Text overlay: 27 LEFT / SAME BIKE / ₹14,000 LESS
 
-### G7. THE DAMAGE REPORT — Day 10-ish (Type 5)
+**Audio:** Phone slam → counter slap → voiceover → marker squeak.
 
-**Hook (0-3 sec):** Owner sits at his desk. A single harsh light on his face. He opens a notebook. The page header reads: "LOSSES — WEEK 1." There are NUMBERS. Real ones. He turns it to the camera.
+**Share trigger:** People SCREENSHOT side-by-sides. This frame gets forwarded in cycling WhatsApp groups with "bro look at this price."
 
-**Body (3-12 sec):** "10 days in. [X] bikes sold. Here's what I've lost so far." Shows the running total. It's a real, visible, painful number. "My accountant called me yesterday. I told him to call back in 20 days." Slight smile for the first time. "Still [X] bikes left."
-
-**Close (12-15 sec):** "The damage report continues tomorrow. Walk in."
-
-**Audio:** Office/accounting vibes — keyboard clicking, paper rustling. Then silence on the loss reveal.
-
-**Note:** Do this every 7-10 days. The RUNNING TOTAL of losses escalating is its own story arc. People will come back just to see how much he's lost.
+**Note:** REPEAT this format 4-5 times across 30 days with different bikes. Each time, different online site, different model. This is the highest-conversion format in the series.
 
 ---
 
-### G8. THE PHONE CALL — (Type 3)
+### G4. THE STRAVA GHOST
 
-**Hook (0-2 sec):** Tight shot of owner's phone screen. An incoming call: "DISTRIBUTOR." He stares at it. Lets it ring. Declines the call.
+**VISUAL PATTERN INTERRUPT (0-3 sec):**
+Phone screen. Strava app. Activity log: "Last ride: 52 days ago." A thumb scrolls — nothing but blank weeks. Text on screen: "52 days. Your Strava knows."
 
-**Body (2-12 sec):** Looks at camera. "He wants to know why I'm selling [brand] below dealer price. Because I am. ₹[price] for a bike that costs ME ₹[cost]." Picks up a specific bike. "This [model] — full Shimano, disc brakes, [frame material]. MRP ₹[price]. I'm letting it go at ₹[slashed price]." Turns back to the phone. "I'll call him back after all 30 are gone."
+> *Ultra-specific TG filter. Only Strava users feel the gut punch. The blank weeks are a visual representation of guilt they already carry.*
 
-**Close (12-15 sec):** "[X] left."
+**BODY (3-13 sec):**
+Cut to owner holding HIS phone — shows his own Strava. "I had the same problem. You know why you're not riding? It's not motivation. It's the bike." Wheels out an MTB. "This — [brand model]. Shimano Deore. Lock-out suspension. Tubeless-ready. Built for Nandi Hills, Turahalli, weekend trails." Red marker: ₹45,000 → ₹28,500. "This bike makes you WANT to open Strava again."
 
-**Audio:** Phone ringtone as hook, then cuts to silence.
+> *Bridge moment: reframes the problem from "I'm lazy" to "my bike doesn't excite me." Product enters as the solution to existing guilt. Bangalore trail names = daily trigger (every time they drive past Nandi, they remember).*
 
----
+**CTA (13-18 sec):**
+"25 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
 
-### G9. THE GHOST STORE — Day 20+ (Type 4)
+Text overlay: 25 LEFT / ₹28,500 / SHIMANO DEORE
 
-**Hook (0-3 sec):** Wide shot of the store. It looks EMPTY compared to Day 1. Actual tumbleweeds energy. Owner walks through the empty spaces. His footsteps echo.
+**Audio:** Strava notification sound → conversational voiceover → marker squeak.
 
-**Body (3-12 sec):** Camera follows him as he walks past empty rack after empty rack. He stops at the remaining bikes — maybe 8-10 left. "20 days ago, you couldn't walk through here. Now look at it." Touches one of the remaining bikes. "These are the last ones. Once they're gone, I'm restocking at full price. No more clearance. No more below cost."
-
-**Close (12-15 sec):** "[X] bikes left. After this, prices go back to normal."
-
-**Audio:** Echo-y, empty warehouse vibes. Footsteps prominent.
-
----
-
-### G10. THE WHATSAPP STORM — (Type 3)
-
-**Hook (0-2 sec):** Owner's phone screen — WhatsApp notifications FLOODING in. Message after message. The phone is physically BUZZING on the counter, vibrating across the surface.
-
-**Body (2-10 sec):** He picks up the phone. Scrolls through DMs. "Everyone's asking the same thing: 'Is this real?' 'What's the catch?'" He puts the phone down. Looks at camera. "The catch is I lose money and you get a premium bike for less than I bought it. That's the whole catch."
-
-**Close (10-15 sec):** Features one specific bike with specs + price. "[X] left."
-
-**Audio:** Rapid notification sounds as hook, then calm.
+**Share trigger:** "Send this to your cycling group — the one where everyone plans rides and nobody goes." That group has 15 people. 3 will be interested. 1 walks in.
 
 ---
 
-### G11. THE GOODBYE — (Type 2 + Type 5 hybrid)
+### G5. THE EMI STACK
 
-**Hook (0-2 sec):** Owner RUNS HIS HAND along the frame of a premium bike. Slowly. Like saying goodbye to someone.
+**VISUAL PATTERN INTERRUPT (0-3 sec):**
+Phone screen, rapid fire — three bank notifications pop in:
+- "EMI deducted: ₹8,499 — Car Loan"
+- "EMI deducted: ₹2,199 — Gym"
+- "EMI deducted: ₹999 — Netflix"
 
-**Body (2-15 sec):** "I'm going to be honest. This [model] — I didn't want to sell this one. [Quick specs: brand, frame, groupset]. This is a ₹[MRP] bike. I have it at ₹[slashed price]. Someone's going to walk in today and take it from me." Pats the seat. Steps back. "Go ahead. It deserves to be ridden, not sitting in my store."
+The phone BUZZES with each one. Each buzz = a wince. Text on screen: "You pay all this. For what?"
 
-**Close (15-20 sec):** "[X] left. Walk in. Jayanagar."
+> *Everyone with EMIs gets these notifications. The triple buzz is physically irritating. The "For what?" question is the knife — because the viewer already knows the gym is unused and Netflix is background noise.*
 
-**Audio:** Sentimental/emotional track — but played slightly for comedy because it's a BIKE, not a person.
+**BODY (3-13 sec):**
+Owner at the counter. "Car EMI: 8,499. Sits in traffic. Gym: 2,199. You went twice last month. Netflix: 999. Background noise. Total: 11,697 a month for things you barely use." Picks up a price tag. "This road bike: 1,200 a month. 18 months. Shimano Claris. Disc brakes. It replaces your gym, your short commutes, AND your boredom." Red marker: ₹32,000 → ₹21,600.
 
-**Note:** Use this format for your 3-4 BEST bikes. The ones that genuinely hurt to sell at this price. The sincerity + absurdity of mourning a bicycle is the comedy.
+> *Triple price anchoring: three wasted EMIs vs one useful EMI. The bike EMI (1,200) is less than ANY of the three. The brain reprocesses from "new cost" to "I'm already wasting more than this."*
+
+**CTA (13-18 sec):**
+"26 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
+
+Text overlay: 26 LEFT / ₹1,200/MONTH / REPLACES 3 EMIS
+
+**Audio:** Bank notification buzzes (0-3 sec) → calm voiceover → marker squeak.
+
+**Share trigger:** "Save this and show your wife tonight when she asks 'what EMI is this now.' Show her the math. She'll approve this one."
 
 ---
 
-### G12. THE FINAL COUNTDOWN — Last 5 Bikes (Type 4)
+### G6. THE TRAFFIC CLOCK
 
-**Hook (0-3 sec):** Owner DRAGS a cloth/tarp over the empty bike racks. Covering them. Like covering furniture in a house you're leaving. Only 5 bikes remain uncovered, spotlit.
+**VISUAL PATTERN INTERRUPT (0-3 sec):**
+Bangalore traffic. A car dashboard. The clock says 8:47 AM. Google Maps shows ETA: 9:32 AM. 45 minutes for what should be a 6 km drive. The driver's hands GRIP the steering wheel. He looks left — a cyclist passes him on the road, moving freely. The cyclist is GONE in 2 seconds while the car hasn't moved an inch.
 
-**Body (3-12 sec):** "We started with 30. 25 people walked out of here with premium bikes at below-cost prices." Camera slowly reveals each of the 5 remaining. Quick flash of each: model, price. "These 5 are it. After these, this clearance is DONE. I go back to full price. My accountant goes back to normal blood pressure."
+> *Every Bangalore commuter has watched a cyclist pass them in traffic. The 45-minute ETA for 6 km is a daily reality. The pattern interrupt is the CONTRAST — stuck car vs free cyclist.*
 
-**Close (12-15 sec):** "5 left. Final days. You know the number."
+**BODY (3-13 sec):**
+Cut to store. Owner next to a hybrid bike. "Bangalore traffic costs you 45 minutes, 6 km, and 200 rupees in fuel. Every single day." Taps the bike. "This hybrid — Shimano Tourney, aluminum, 21 speed — does the same 6 km in 18 minutes. Fuel cost: zero. Parking: anywhere." Red marker: ₹28,000 → ₹17,500. "That's less than two months of your fuel and parking combined."
 
-**Audio:** Countdown timer ticking.
+> *The comparison is MATH the viewer can verify themselves. Time saved + money saved + parking solved = triple value stack in one sentence.*
+
+**CTA (13-18 sec):**
+"24 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
+
+Text overlay: 24 LEFT / ₹17,500 / 18 MIN vs 45 MIN
+
+**Audio:** Traffic horn ambient + Google Maps "recalculating" sound → voiceover → marker squeak.
+
+**Share trigger:** Tomorrow morning, stuck in traffic, they'll remember this reel. They'll look at a cyclist passing them and think "18 minutes, 17,500 rupees." That's the daily trigger.
 
 ---
 
-### G13. THE LAST ONE — Final Bike (Type 4 + 5)
+### G7. THE WIFE CALCULATOR
 
-**Hook (0-2 sec):** A single spotlight on a single bike in an otherwise empty section of the store. Nothing else in frame.
+**VISUAL PATTERN INTERRUPT (0-3 sec):**
+A guy standing outside BCH. Phone to ear. Nervous face. Wife's voice (muffled): "How much?" He looks at the camera. Looks back at phone. "...it's an investment." Wife: "HOW. MUCH." He winces.
 
-**Body (2-12 sec):** Owner walks into frame. Stands next to it. "This is it. The last one. 29 bikes gone. 29 losses on my books." Shows the running total loss one final time. "Was it worth it?" Looks at the bike. Looks at camera. "Ask the 29 people riding right now."
+> *Every married man has had this exact call. The comedy is instant — the viewer IS this guy. Only men considering a purchase self-project here. Open loop: will she approve?*
 
-**Close (12-15 sec):** "[Model]. ₹[price]. Walk in today. When this one's gone, it's over."
+**BODY (3-15 sec):**
+Cut inside. Owner hands him a printed sheet. Camera shows it:
+- Gym (unused): ₹2,199/month
+- Weekend petrol (short drives): ₹1,500/month
+- Total wasted: ₹3,699/month
+- This bike EMI: ₹1,400/month
+- Monthly saving: ₹2,299
 
-**Audio:** Single piano note. Silence. Then the reel ends.
+Man takes a photo. Sends it. Waits. Phone buzzes. WhatsApp reply: "Which color?" His face LIGHTS UP. Owner does a quiet fist pump behind him. Man points at a bike: "That one."
+
+Quick specs: "[Model]. Shimano Acera. Alloy frame." Red marker: ₹34,000 → ₹22,100.
+
+> *The owner is the viewer's ALLY, not the salesman. The printed breakdown is a save trigger — viewers will screenshot this frame. The "which color" reply = tension resolves = the viewer's brain simulates THEIR wife approving.*
+
+**CTA (15-20 sec):**
+"22 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
+
+Text overlay: 22 LEFT / ₹22,100 / DM 'WIFE' FOR THE BREAKDOWN
+
+**Audio:** Phone call audio (muffled) → WhatsApp buzz → quiet celebration → voiceover.
+
+**Share trigger:** "DM 'WIFE' and I'll send you this breakdown for YOUR spouse." Dual save: save the reel to show tonight + DM for the document. The CTA isn't "buy a bike" — it's "win the argument at home."
+
+---
+
+### G8. THE WEEKEND LIE
+
+**VISUAL PATTERN INTERRUPT (0-3 sec):**
+WhatsApp messages on screen, rapid fire:
+- "Bro Nandi this Sunday?" — Jan 12
+- "Sunday ride?" — Jan 26
+- "This weekend for sure" — Feb 9
+- "Bro?" — Feb 16
+- "..." — Read ✓
+
+Text: "You've been 'starting next weekend' since January."
+
+> *Every Bangalore cyclist has this exact dead WhatsApp thread. The "Read ✓" with no reply is the twist. TG filter is maximal — only cycling group members feel attacked.*
+
+**BODY (3-13 sec):**
+Owner in store, leaning on an MTB. Direct to camera. "You keep pushing it because your 2018 BSA isn't getting you up Nandi. You know it. Your group knows it." Wheels out the MTB. "[Brand model]. Shimano Deore. Lock-out suspension. 29er wheels. This goes up Nandi without you questioning your life choices." Red marker: ₹42,000 → ₹26,500. "Fifteen and a half thousand off. My cost was twenty-nine."
+
+> *Bridge moment: procrastination isn't laziness, it's the wrong bike. Exact loss number (cost 29K, selling 26.5K) = concrete transparency. Nandi Hills reference = daily trigger.*
+
+**CTA (13-18 sec):**
+"20 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
+
+Text overlay: 20 LEFT / ₹26,500 / SHIMANO DEORE
+
+**Audio:** WhatsApp notification sounds rapid-fire → direct voiceover → marker squeak.
+
+**Share trigger:** "Send this to your cycling group. The one that's all talk." They share it with "bro he's talking about us 😂" — 15 people see it, 3 interested, 1 walks in.
+
+---
+
+### G9. THE PHONE SLAM (Side-by-Side v2)
+
+**VISUAL PATTERN INTERRUPT (0-2 sec):**
+Owner holds a phone showing a bike listing on a popular cycling website: ₹48,000. He SLAMS the phone face-down on the counter. Picks up a laminated price tag from the SAME bike in his store: ₹28,800. Holds it up next to the face-down phone. One frame. Two prices. ₹19,200 gap.
+
+> *Physical slam = pattern interrupt. The gap visible without words. Different from G3 — this uses the physical slam and one-hand reveal instead of two phones.*
+
+**BODY (2-12 sec):**
+"[Brand model]. Shimano Alivio. Alloy frame. Hydraulic disc brakes. Full specs — same bike, same year, same everything." Flips the phone back up. Points at screen: "48 thousand. Plus 800 delivery. Plus you assemble it yourself. Plus you wait 12 days." Points at his tag: "28,800. Assembled. Tuned. Ride it out the door in 10 minutes." Red marker: emphasizes the ₹28,800 by circling it.
+
+> *Six value points in 10 seconds: same specs → online price → delivery cost → assembly hassle → wait time → BCH price + ready to ride. Each one a new reason.*
+
+**CTA (12-17 sec):**
+"18 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
+
+Text overlay: 18 LEFT / ₹19,200 LESS THAN ONLINE
+
+**Audio:** Phone slam → voiceover → marker circle sound.
+
+**Share trigger:** The single frame showing both prices is built to be screenshotted and sent to cycling WhatsApp groups.
+
+---
+
+### G10. THE PARKING MATH
+
+**VISUAL PATTERN INTERRUPT (0-3 sec):**
+A car circling a Bangalore mall parking lot. Level 2. Level 3. Level 4. No spots. The driver's hand slaps the steering wheel. Cut to: a cyclist pulling up to the SAME mall, locking his bike to a pole in 5 seconds. He walks in while the car is still circling.
+
+> *Bangalore parking frustration is DAILY. The contrast (circling car vs 5-second lock) is the visual hook. Only people who drive in Bangalore feel this.*
+
+**BODY (3-13 sec):**
+Owner in store. "You spend 20 minutes finding parking every time you go anywhere in Bangalore. That's 2.5 hours a week just LOOKING for a spot. Plus 50-100 rupees per parking." Next to a foldable hybrid. "This folds in half. Fits in your apartment. Parks anywhere. Zero parking fee, zero parking stress." Red marker: ₹35,000 → ₹22,000. "Shimano Tourney. Alloy frame. Folds to half its size."
+
+> *New angle on the same sale — targets the PARKING problem, not just the fuel problem. Shows a different bike (foldable) for a different use case. Value stacks: time saved → money saved → storage solved → specs → price.*
+
+**CTA (13-18 sec):**
+"16 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
+
+Text overlay: 16 LEFT / ₹22,000 / FOLDS IN HALF
+
+**Audio:** Parking lot ambient + horn → voiceover → marker squeak.
+
+**Share trigger:** Tomorrow when they're circling for parking, they'll think of the guy who locked his bike in 5 seconds.
+
+---
+
+### G11. THE GYM BADGE
+
+**VISUAL PATTERN INTERRUPT (0-3 sec):**
+Close-up of a guy's wallet. He pulls out a gym membership card. Blows dust off it. The expiry date: "Valid till March 2025" — it's been expired for almost a YEAR. He looks at it. Flicks it like a playing card — it spins across the counter.
+
+> *The dusty gym card is a universal guilt object. Flicking it away = the frustration of wasted money. Only fitness-conscious people who've abandoned their gym feel this.*
+
+**BODY (3-13 sec):**
+Owner catches the card (or picks it up). "2,199 a month. For 8 months. You went 6 times total. That's 2,932 rupees per visit. Per VISIT." Sets it on the counter. Next to it, places a bike price tag: ₹19,800. "This hybrid replaces your gym. Shimano Tourney. Disc brakes. You ride outside, in actual air, on actual roads. No membership. No renewal. No guilt."
+
+Red marker: ₹30,000 → ₹19,800.
+
+> *The per-visit gym cost (₹2,932) is a gut punch. Reframes the bike as cheaper than what they already wasted. "No guilt" line addresses the real emotion — not fitness, but the shame of wasting money.*
+
+**CTA (13-18 sec):**
+"14 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
+
+Text overlay: 14 LEFT / ₹19,800 / REPLACES YOUR GYM
+
+**Audio:** Card flick sound → voiceover → marker squeak.
+
+**Share trigger:** "Send this to someone who's been paying for a gym they don't go to." Everyone knows that person. They might BE that person.
+
+---
+
+### G12. THE LAST 5
+
+**VISUAL PATTERN INTERRUPT (0-3 sec):**
+Wide shot of BCH. Half the bike racks are EMPTY. Owner walks through the empty section. His footsteps echo. He stops. Camera shows: 5 bikes left, spotlit. Everything else = empty space.
+
+> *The visual contrast IS the hook. Day 1 this store was packed. Now it's a ghost. The emptiness speaks louder than any words.*
+
+**BODY (3-15 sec):**
+Camera does a slow reveal of each remaining bike. Quick flash on each — model name + slashed price appears on screen:
+1. [Brand MTB] — ₹28,500 (was ₹45,000)
+2. [Brand Road] — ₹24,000 (was ₹38,000)
+3. [Brand Hybrid] — ₹19,800 (was ₹30,000)
+4. [Brand Foldable] — ₹22,000 (was ₹35,000)
+5. [Brand MTB] — ₹26,500 (was ₹42,000)
+
+"25 people walked out with premium bikes at prices I can't repeat. These 5 are the last. When they're gone, I restock at full MRP. The distributor is waiting."
+
+> *Listing all 5 with both prices creates a shopping-list effect. Viewers save this to compare. The "distributor is waiting" line = prices go back up, and it's not the owner's choice — it's reality.*
+
+**CTA (15-20 sec):**
+"5 bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
+
+Text overlay: 5 LEFT / FINAL WEEK
+
+**Audio:** Echoing footsteps → slow reveal music → silence on CTA.
+
+**Share trigger:** This is the most saveable reel in the series — 5 bikes, 5 prices, all in one frame. People save it as a shopping list. People forward it to friends who were "thinking about it."
+
+---
+
+### G13. THE LAST ONE
+
+**VISUAL PATTERN INTERRUPT (0-2 sec):**
+A single bike. Single spotlight. Empty store around it. Nothing else in the frame. The silence is the hook.
+
+**BODY (2-12 sec):**
+Owner walks in. Stands next to it. "29 bikes. 29 days. Done." Touches the handlebar. "[Model]. [Specs]. ₹[slashed price]." Looks at camera. "This is the last one. When someone walks out with this, the clearance is over. Full price tomorrow." Long pause. "If you've been thinking about it — today is the day. Not tomorrow. Today."
+
+> *The emptiness and silence are more powerful than any dramatic action. The long pause before "today is the day" creates weight. No hype. No desperation. Just finality.*
+
+**CTA (12-15 sec):**
+"1 bike left. Once it's gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
+
+Text overlay: LAST ONE / [Model] / ₹[price]
+
+**Audio:** Silence. Single footstep. Voiceover. Silence.
 
 ---
 
 ## 30-DAY POSTING SCHEDULE
 
-| Phase | Days | Reels/Day | Content Mix | Goal |
-|-------|------|-----------|-------------|------|
-| **LAUNCH** | 1-3 | 1 | G1 (The Slash) → G2 (Calculator) → G3 (first bike feature) | Announce. Shock. Establish the series. |
-| **MOMENTUM** | 4-10 | 1 | Rotate: Bike Features (G3/G6/G11) + Customer Reactions (G4) + Comparisons (G6) | Show real bikes, real deals, real reactions. |
-| **MIDPOINT** | 11-15 | 1 | G7 (Damage Report) + features + reactions. Phone Call (G8) here. | Reinforce trust. Show the "madness" is real. |
-| **URGENCY** | 16-22 | 1 | G5 (Before/After) + G9 (Ghost Store) + remaining features + WhatsApp Storm (G10) | FOMO. The store is emptying. Don't miss out. |
-| **FINAL PUSH** | 23-28 | 1-2 | Goodbyes (G11) for remaining bikes + Countdown (G12) | Emotional + urgent. Last chance energy. |
-| **ENDGAME** | 29-30 | 1-2 | G13 (The Last One) + potential "SOLD OUT" victory reel | Close it out. |
+| Phase | Days | Content | Goal |
+|-------|------|---------|------|
+| **LAUNCH** | 1-3 | G1 (Chain Snap) → G2 (Petrol Receipt) → G3 (Side-by-Side) | Open from 3 different TG pain points. Establish the sale exists. |
+| **MOMENTUM** | 4-10 | Rotate: G4 (Strava) / G5 (EMI) / G6 (Traffic) / G3 format (new bikes) | Every day = new TG pain point + new bike. Build recognition of the CTA. |
+| **MIDPOINT** | 11-15 | G7 (Wife Calculator) + G8 (Weekend Lie) + G3 (new comparisons) | Social triggers: spouse approval, cycling group shares. |
+| **URGENCY** | 16-22 | G9 (Phone Slam v2) + G10 (Parking) + G11 (Gym Badge) + new daily-life hooks | Stock visibly dropping. Each reel shows fewer bikes. |
+| **FINAL PUSH** | 23-28 | Repeat best-performing formats with remaining bikes | Double down on what got the most DMs/saves. |
+| **ENDGAME** | 29-30 | G12 (Last 5) → G13 (Last One) | Finality. No hype. Just the last bikes and silence. |
 
-**REPEATABLE FORMATS (use multiple times across 30 days):**
-- G3 (The Lineup) — do this for 8-10 individual bikes, rotating models
-- G4 (Customer Freeze) — shoot EVERY genuine reaction, stockpile clips
-- G6 (Side-by-Side) — 3-4 times with different bikes/websites
-- G11 (The Goodbye) — 3-4 times for the best bikes
-
-**STORY ARC:** The owner goes from dead serious (Week 1) → slightly unhinged (Week 2) → openly questioning his decisions (Week 3) → resigned/peaceful (Week 4). This PROGRESSION keeps the series alive and gives viewers a reason to come back.
+**REPEATABLE FORMATS (use across 30 days):**
+- G3 (Side-by-Side) — 4-5 times with different bikes/sites. Highest conversion format.
+- Any TG daily-life hook — new frustrations can be added: auto fare, cycle repair costs, weekend boredom, kids wanting rides, fitness goals
+- The red marker slash — appears in EVERY reel as either the hook or the bridge moment
 
 ---
 
 ## THE CTA SYSTEM
 
-Every single reel ends with ONE of these:
+**ONE CTA. ALL 30 REELS. NO VARIATION.**
 
-- **"DM 'GONE'"** — simple, memorable, trackable
-- **"Walk in — Jayanagar, Bangalore"** — for local reach
-- **"[X] bikes left"** — the number ALWAYS visible
-- **Phone number on screen** — for direct calls
+> "[X] bikes left. Once they're gone, full price. No restock. DM 'GONE' or walk in — BCH Jayanagar."
 
-The CTA is SHORT. Never more than one line spoken + one line on screen.
+- The NUMBER changes daily (30 → 29 → 28...)
+- The WORDS stay identical
+- After 10+ reels, the viewer has this CTA memorized
+- The dropping number creates real, visible urgency without fake hype
+- "No restock" = this is NOT a sale that comes back. It's a one-time event.
 
 ---
 
 ## AUDIO DIRECTION
 
-| Concept Type | Audio Vibe |
-|-------------|-----------|
-| Slash/Price Destruction | Heist movie tension, building drums |
-| Bike Features | Boxing ring / fight entrance energy |
-| Customer Reactions | Record scratch → comedic beats |
-| Countdown/Empty Store | Eerie silence, echoing footsteps, clock ticking |
-| Loss/Dark Comedy | Piano, quiet office sounds, dramatic silence |
-| Final Reel | Single note. Silence. End. |
+| Hook Type | Audio |
+|---|---|
+| Chain snap / mechanical failure | Real metallic snap sound → silence |
+| Petrol / traffic / parking | Location ambient (pumps, horns, lot sounds) |
+| Phone notifications (EMI, Strava, WhatsApp) | Notification sounds → silence |
+| Side-by-side / phone slam | Slam impact → voiceover |
+| Late series (empty store) | Silence. Footsteps. Nothing else. |
 
-Use trending Reel audio wherever possible — but the VISUAL must work on mute too.
+All reels must work on MUTE — text overlays carry the key information (price, specs, bike count).
+
+---
+
+## SHARE/SAVE TRIGGERS (Built Into Scripts)
+
+| Script | Share Target | Save Target |
+|---|---|---|
+| G1 (Chain Snap) | Every cyclist sends to riding buddy | — |
+| G2 (Petrol Receipt) | "Send to someone who complains about petrol" | Save for spouse — show the fuel math |
+| G3 (Side-by-Side) | Screenshot → cycling WhatsApp groups | Save as price reference |
+| G4 (Strava Ghost) | "Send to cycling group that plans but never rides" | — |
+| G5 (EMI Stack) | — | "Save and show your wife tonight" |
+| G6 (Traffic Clock) | Send to anyone stuck in Bangalore traffic | — |
+| G7 (Wife Calculator) | "DM 'WIFE' for the breakdown" | Save the breakdown frame |
+| G8 (Weekend Lie) | "Send to your cycling group — the one that's all talk" | — |
+| G9 (Phone Slam v2) | Screenshot → cycling groups | Save as price reference |
+| G10 (Parking Math) | Send to anyone who drives in Bangalore | — |
+| G11 (Gym Badge) | "Send to someone paying for a gym they don't go to" | — |
+| G12 (Last 5) | Forward to friends who were "thinking about it" | Save as shopping list (5 bikes, 5 prices) |
+| G13 (Last One) | — | — (urgency does the work) |
 
 ---
 
 ## TARGETING & REACH
 
-**Hashtags (rotate across reels):**
-- #BangaloreCycling #CycleShopBangalore #RoadBikeSale #MTBIndia #HybridCycle
-- #CycleClearance #BikeSale #PremiumCycle #ShimanoBike #CyclingDeals
-- #Jayanagar #BangaloreDeals #GoneIn30 #BCH #BharathCycleHub
+**Hashtags (max 5, rotate):**
+- Always include: #ecyclebangalore OR #bangalorecycling
+- Rotate: #shimano #roadbike #mtbindia #hybridcycle #cyclecommute
+- One trending tag if relevant
 
-**Geo-tag:** BCH store, Jayanagar, Bangalore — EVERY reel.
+**Geo-tag:** BCH Jayanagar, Bangalore — EVERY reel.
 
-**Share targets:** Post in Bangalore cycling WhatsApp groups/Telegram. Tag local cycling pages. The Side-by-Side (G6) comparison reels are built to be SCREENSHOTTED and shared in groups.
+**WhatsApp/Telegram:** Post every side-by-side reel into Bangalore cycling groups. The comparison format is built to be shared in groups.
 
-**Collab/Tag:** If any known Bangalore cyclist buys during the clearance, get them in a reel. One known face > 10 anonymous reactions.
+**Posting times:** Sunday 11 AM + Wednesday 9 AM (conversion content optimal windows from algorithm SOP).
 
 ---
 
-## RULES FOR THIS SERIES
+## RULES
 
-1. **NEVER fake the stock count.** If 22 are left, say 22. Trust is the entire game here. Cycling enthusiasts are detail people — they WILL check.
-2. **Show REAL specs.** Brand name, groupset, frame material, wheel size. This audience knows bikes. Don't be vague.
-3. **The red marker is your signature.** Use it in every price-slashing reel. It becomes the visual identity of the series.
-4. **One bike per feature reel.** Don't clump 5 bikes in one video. Each bike deserves its own spotlight.
-5. **Capture EVERY real customer reaction.** Even a 3-second "bro what" is content gold. Keep the camera ready at all times.
-6. **The loss is real — lean into it.** Don't hide the fact that you're selling below cost. The transparency IS the hook. "My margin is 25%, I'm giving 40% off" — that one line does more than any ad.
-7. **Cross-post Stories daily.** Every day, even without a reel, post a Story: updated bike count, quick walkaround of remaining stock, a close-up of a slashed price tag.
+1. **NEVER fake the stock count.** If 22 are left, say 22. Cycling enthusiasts are detail people — they will check.
+2. **Show REAL specs.** Brand, groupset, frame material, wheel size. This audience knows bikes.
+3. **The red marker is the visual signature.** Every reel has a slash moment.
+4. **One bike per reel.** Don't clump multiple bikes (except G12 — The Last 5).
+5. **CTA never changes.** Same words, every reel, 30 days. Only the number drops.
+6. **Every hook starts from the VIEWER'S life.** Not the owner's drama. Not the store's story. The viewer's daily frustration.
+7. **This is organic content, not ads.** Shot on phone, posted raw. No over-production. Real energy.
+8. **Cross-post Stories daily.** Even on non-reel days: updated bike count, quick price tag close-up, remaining stock walkaround.
 
 ---
 
 ## THE ONE-LINE PITCH
 
-**"A bike shop owner publicly loses money for 30 days straight, one premium bike at a time, and films the whole thing."**
+**"30 premium bikes priced wrong for 30 days — each reel starts from a frustration you felt TODAY and ends with the bike that solves it."**
 
-If that sentence makes people curious — the series works.
+If that makes the viewer check their Strava, look at their petrol receipt, or open their cycling WhatsApp group — the series works.
